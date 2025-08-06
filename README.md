@@ -11,5 +11,3 @@ nexus8222/nexus8222 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.  
 --->  
 
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
