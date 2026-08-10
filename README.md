@@ -14,7 +14,9 @@ Security engineer with a focus on detection content, log pipelines, and AI-drive
 ## Technical Skills
 
 **Languages:** C, C++, Python, Java, Bash, Rust
+
 **Domains:** AI & Machine Learning, Cybersecurity, Cloud Computing, DevSecOps
+
 **Tools:** Docker, Kubernetes, Git, Terraform, Ansible, Wireshark
 
 <div align="center">
