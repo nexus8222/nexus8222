@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://c.tenor.com/lPNvyIdrVtAAAAAC/tenor.gif" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=8B8B8B&background=00000000&center=true&vCenter=true&width=650&lines=Building+detection+content+and+security+tooling;Exploring+reinforcement+learning+applied+to+security;Working+across+AI%2C+cloud%2C+and+DevSecOps" />
 
