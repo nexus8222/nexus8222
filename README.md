@@ -1,37 +1,37 @@
 <div align="center">
-  
-<img src="https://c.tenor.com/lPNvyIdrVtAAAAAC/tenor.gif" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=8B8B8B&background=00000000&center=true&vCenter=true&width=650&lines=Building+detection+content+and+security+tooling;Exploring+reinforcement+learning+applied+to+security;Working+across+AI%2C+cloud%2C+and+DevSecOps" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=Independent+Security+Researcher;Security+%26+Systems+Development+Geek;Exploring+Artificial+General+Intelligence" />
 
 </div>
 
-<br>
+## About Me
 
-## About
+Independent security researcher and systems development geek interested in cybersecurity, systems internals, AI/ML, reinforcement learning, and Artificial General Intelligence (AGI).
 
-Security engineer with a focus on detection content, log pipelines, and AI-driven automation for defensive security. Interested in reinforcement learning, systems internals, and applying machine learning to security operations.
+Passionate about security research, reverse engineering, vulnerability analysis, building security tooling, and exploring intelligent systems.
 
-## Technical Skills
+## Tech Stack
 
 **Languages:** C, C++, Python, Java, Bash, Rust
 
-**Domains:** AI & Machine Learning, Cybersecurity, Cloud Computing, DevSecOps
+**Security Research:** Penetration Testing, Reverse Engineering, Malware Analysis, Vulnerability Research, Detection Engineering
 
-**Tools:** Docker, Kubernetes, Git, Terraform, Ansible, Wireshark
+**Security Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Nuclei, OWASP ZAP, SQLmap
+
+**Advanced Security:** Ghidra, IDA Pro, Frida, GDB, YARA, Sigma, Semgrep, CodeQL, Ghidra
+
+**Network & Cloud Security:**  BloodHound, Impacket,
+
+**AI & ML:** PyTorch, TensorFlow, Hugging Face, scikit-learn, Jupyter, LangChain
+
+**Infrastructure:** Linux, Docker, Kubernetes, Git, Terraform, Ansible
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,rust,docker,kubernetes,git,aws,azure,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,rust,linux,docker,kubernetes,git,aws,azure,pytorch,tensorflow&theme=dark" />
 </div>
-
-## GitHub Stats
 
 <div align="center">
 
-
-<img src="https://streak-stats.demolab.com/?user=nexus8222&theme=dark&hide_border=true&background=0D1117&stroke=2E8B57&ring=39FF14&fire=39FF14&currStreakLabel=c9c9c9" />
+<img src="https://streak-stats.demolab.com/?user=nexus8222&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14" />
 
 </div>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
