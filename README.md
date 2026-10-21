@@ -12,7 +12,7 @@ Passionate about security research, reverse engineering, vulnerability analysis,
 
 ## Tech Stack
 
-**Languages:** C, C++, Python, Java, Bash, Rust
+**Languages:** C, C++, Python, Java, Bash, Rust , GO ,Haxe
 
 **Security Research:** Penetration Testing, Reverse Engineering, Malware Analysis, Vulnerability Research, Detection Engineering
 
