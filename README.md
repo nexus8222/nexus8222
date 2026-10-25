@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1500&color=39FF14&center=true&vCenter=true&width=600&lines=Independent+Security+Researcher;Security+%26+Systems+Development+Geek;Exploring+Artificial+General+Intelligence" />
 
+
 </div>
 
 ## About Me
