@@ -28,11 +28,5 @@ Passionate about security research, reverse engineering, vulnerability analysis,
 **Infrastructure:** Linux, Docker, Kubernetes, Git, Terraform, Ansible
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,rust,linux,docker,kubernetes,git,aws,azure,pytorch,tensorflow&theme=dark" />
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=nexus8222&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,bash,rust,linux,docker,kubernetes,git,aws,azure,pytorch,tensorflow,huggingface&theme=dark" />
 </div>
